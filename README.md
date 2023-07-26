@@ -40,4 +40,3 @@ https://github.com/YuanGao-YG/LPSNet.*
   year={2023},
   publisher={Elsevier}
 }
-
