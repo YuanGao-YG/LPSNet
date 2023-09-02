@@ -1,6 +1,8 @@
 # <p align=center> [OCMA] Deep learning-driven surveillance quality enhancement for maritime management promotion under low-visibility weathers</p>
 
 <div align="center">
+
+[![paper](https://img.shields.io/badge/LPSNet-paper-blue.svg)]([https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Guo_SCANet_Self-Paced_Semi-Curricular_Attention_Network_for_Non-Homogeneous_Image_Dehazing_CVPRW_2023_paper.html](https://doi.org/10.1016/j.ocecoaman.2023.106478))
   
 
 
