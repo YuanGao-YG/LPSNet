@@ -28,7 +28,7 @@ https://github.com/YuanGao-YG/LPSNet.*
 * Place the pre-training weight in the `./checkpoint` folder.
 * Place test low-visibility images in the `./dataset/Test` folder.
 * Run `demo.py`
-* The results is saved in `./result` folder.
+* The results are saved in `./result` folder.
 
 ## Citation
 
